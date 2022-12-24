@@ -1,10 +1,10 @@
 # Копилка
 
 ## Оглавление
-[1. Описание проекта](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#описание-проекта)\
+[1. Описание программы](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#описание-проекта)\
 [2. Какой кейс решаем](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#какой-кейс-решаем)\
 [3. Краткая информация о данных](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#краткая-информация-о-данных)\
-[4. Этапы работы над проектом](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#этапы-работы-над-проектом)\
+[4. Этапы работы над программой](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#этапы-работы-над-проектом)\
 [5. Результат](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#результат)\
 [6. Выводы](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#выводы)
 
