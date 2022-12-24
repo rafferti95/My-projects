@@ -43,4 +43,6 @@
 ### Выводы
 Изучение *сложного* на первый взгляд *программирования*, оказывается не таким и сложным, и даёт свои плоды уже в самом начале. Особенно это чувствуется, когда полученные навыки быстро находят реализацию в решении сложных рутинных задач.
 
+↑[К оглавлению](https://github.com/rafferti95/My-projects/edit/main-programs/2_Wells%20bottoms/README.md#оглавление)↑
 
+→[Ссылка на программу](https://github.com/rafferti95/My-projects/blob/main-programs/2_Wells%20bottoms/Wells%20bottoms.ipynb)←
