@@ -37,3 +37,5 @@
 Данная программа практически не несёт существенной пользы, но она стала первой собственно ручно реализованной моей идей в коде, что наделяет её правом служить напоминанием мне самому о том, с чего я начинал.
 
 ↑ [К оглавлению](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#оглавление) ↑
+
+→[Ссылка на программу](https://github.com/rafferti95/My-projects/blob/main-programs/0_Mondey%20box/Money_box.ipynb)←
