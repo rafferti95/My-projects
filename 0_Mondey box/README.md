@@ -8,7 +8,7 @@
 [5. Результат](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#результат)\
 [6. Выводы](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#выводы)
 
-### Описание проекта
+### Описание программы
 Помочь накопить 101.000 рублей за 100 дней.
 
 ↑ [К оглавлению](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#оглавление) ↑
@@ -23,7 +23,7 @@
 
 ↑ [К оглавлению](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#оглавление) ↑
 
-### Этапы над проектом
+### Этапы над программой
 Идея написать данную программу появилась в самом начале обучения на курсе "Специализация Data Science" после просмотра видеоролика, на котором данная операция по накоплению денежных средств осуществляется путём расчерчивания таблички с числами и использования рандомайзера для выбора номера клетки с суммой для отложения в копилку.
 
 ↑ [К оглавлению](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#оглавление) ↑
