@@ -1,7 +1,7 @@
 # Копилка
 
 ## Оглавление
-[1. Описание проекта](https://github.com/rafferti95/st_data_science/tree/master/Project%200#описание-проекта)\
+[1. Описание проекта](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#описание-проекта)\
 [2. Какой кейс решаем]()\
 [3. Краткая информация о данных]()\
 [4. Этапы работы над проектом]()\
@@ -11,4 +11,4 @@
 ### Описание проекта
 Накопить 101.000 рублей за 100 путём откладывания каждый день разной суммы денег, предлагаемой программой
 
-↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление) ↑
+↑ [К оглавлению](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#описание-проекта) ↑
