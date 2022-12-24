@@ -5,6 +5,6 @@
 ## Программы 📁:
 * [Программа-копилка](https://github.com/rafferti95/My-projects/tree/test-programs/0_Mondey%20box) 💰
 * [Список файлов](https://github.com/rafferti95/My-projects/tree/test-programs/1_Files%20names) 📄
-* [Забои скважин](https://github.com/rafferti95/My-projects/tree/test-programs/2_Wells%20bottoms) 📍
+* [Координаты забоев скважин](https://github.com/rafferti95/My-projects/tree/test-programs/2_Wells%20bottoms) 📍
 * [Препобразование файлов инклинометрии](https://github.com/rafferti95/My-projects/tree/test-programs/3_Inclinometria) 📝
 

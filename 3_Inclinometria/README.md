@@ -1,4 +1,4 @@
-# Формирование файла инклинометрии
+# Преобразование файлов инклинометрии
 
 ## Оглавление
 [1. Описание программы](https://github.com/rafferti95/My-projects/blob/main-programs/3_Inclinometria/README.md#описание-программы)\
