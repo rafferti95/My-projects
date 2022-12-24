@@ -1,4 +1,4 @@
-# Список файлов в папке
+# Список файлов
 
 ## Оглавление
 [1 . Описание программы](https://github.com/rafferti95/My-projects/blob/main-programs/1_Files%20names/README.md#описание-программы)\

@@ -1,4 +1,4 @@
-# Копилка
+# Программа-копилка
 
 ## Оглавление
 [1. Описание программы](https://github.com/rafferti95/My-projects/tree/main-programs/0_Mondey%20box#описание-проекта)\
