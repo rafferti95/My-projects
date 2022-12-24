@@ -1,22 +1,22 @@
 # Координаты забоев скважин
 
 ## Оглавление
-[1. Описание программы](https://github.com/rafferti95/My-projects/edit/main-programs/2_Wells%20bottoms/README.md#описание-программы)\
-[2. Какой кейс решаем](https://github.com/rafferti95/My-projects/edit/main-programs/2_Wells%20bottoms/README.md#какой-кейс-решаем)\
-[3. Краткая информация о данных](https://github.com/rafferti95/My-projects/edit/main-programs/2_Wells%20bottoms/README.md#краткая-информация-о-данных)\
-[4. Этапы работы над программой](https://github.com/rafferti95/My-projects/edit/main-programs/2_Wells%20bottoms/README.md#этапы-работы-над-программой)\
-[5. Результат](https://github.com/rafferti95/My-projects/edit/main-programs/2_Wells%20bottoms/README.md#результат)\
-[6. Выводы](https://github.com/rafferti95/My-projects/edit/main-programs/2_Wells%20bottoms/README.md#выводы)
+[1. Описание программы](https://github.com/rafferti95/My-projects/tree/main-programs/2_Wells%20bottoms#описание-программы)\
+[2. Какой кейс решаем](https://github.com/rafferti95/My-projects/tree/main-programs/2_Wells%20bottoms#какой-кейс-решаем)\
+[3. Краткая информация о данных](https://github.com/rafferti95/My-projects/tree/main-programs/2_Wells%20bottoms#краткая-информация-о-данных)\
+[4. Этапы работы над программой](https://github.com/rafferti95/My-projects/tree/main-programs/2_Wells%20bottoms#этапы-работы-над-программой)\
+[5. Результат](https://github.com/rafferti95/My-projects/tree/main-programs/2_Wells%20bottoms#результат)\
+[6. Выводы](https://github.com/rafferti95/My-projects/tree/main-programs/2_Wells%20bottoms#выводы)
 
 ### Описание программы
 Получить координаты забоев скважин из одного общего файла с инклинометрией
 
-↑[К оглавлению](https://github.com/rafferti95/My-projects/edit/main-programs/2_Wells%20bottoms/README.md#оглавление)↑
+↑[К оглавлению](https://github.com/rafferti95/My-projects/tree/main-programs/2_Wells%20bottoms#оглавление)↑
 
 ### Какой кейс решаем
 Необходимо написать программу, которая будет формировать таблицу Excel с номерами скважин и соответствующим им координатам забоев скважин.
 
-↑[К оглавлению](https://github.com/rafferti95/My-projects/edit/main-programs/2_Wells%20bottoms/README.md#оглавление)↑
+↑[К оглавлению](https://github.com/rafferti95/My-projects/tree/main-programs/2_Wells%20bottoms#оглавление)↑
 
 ### Краткая информация о данных
 - **Инклинометрия** - набор данных, включающих в себя: *координаты, глубину и латеральные смещения*, которые характеризуют пространственное положение ствола буровой скважины.
@@ -28,21 +28,21 @@
 
 В рабочих проектах количество исследуемых скважин может достигать более 600 штук на проект. Рабочая программа способна выгрузить всю инклинометрию из проекта одним файлом. Количество строк данных о пространственном положении скважины может достигать нескольких сотен. Из данного файла и нужно вычленить последнюю зарегистрированную точку ствола каждой скважины.
 
-↑[К оглавлению](https://github.com/rafferti95/My-projects/edit/main-programs/2_Wells%20bottoms/README.md#оглавление)↑
+↑[К оглавлению](https://github.com/rafferti95/My-projects/tree/main-programs/2_Wells%20bottoms#оглавление)↑
 
 ### Этапы работы над программой
 Данная программа была написана на рабочем компьютере во время выполнения рабочей задачи по определению пространственного положения забоев скважины имеющегося эсклуатационного фонда.
 
-↑[К оглавлению](https://github.com/rafferti95/My-projects/edit/main-programs/2_Wells%20bottoms/README.md#оглавление)↑
+↑[К оглавлению](https://github.com/rafferti95/My-projects/tree/main-programs/2_Wells%20bottoms#оглавление)↑
 
 ### Результат
 Результатом работы стала программа, способная выполнить поставленную рабочую задачу за доли секунды вместо нескольких десятков минут, освободив пользователя от рутинной ручной работы
 
-↑[К оглавлению](https://github.com/rafferti95/My-projects/edit/main-programs/2_Wells%20bottoms/README.md#оглавление)↑
+↑[К оглавлению](https://github.com/rafferti95/My-projects/tree/main-programs/2_Wells%20bottoms#оглавление)↑
 
 ### Выводы
 Изучение *сложного* на первый взгляд *программирования*, оказывается не таким и сложным, и даёт свои плоды уже в самом начале. Особенно это чувствуется, когда полученные навыки быстро находят реализацию в решении сложных рутинных задач.
 
-↑[К оглавлению](https://github.com/rafferti95/My-projects/edit/main-programs/2_Wells%20bottoms/README.md#оглавление)↑
+↑[К оглавлению](https://github.com/rafferti95/My-projects/tree/main-programs/2_Wells%20bottoms#оглавление)↑
 
 →[Ссылка на программу](https://github.com/rafferti95/My-projects/blob/main-programs/2_Wells%20bottoms/Wells%20bottoms.ipynb)←
