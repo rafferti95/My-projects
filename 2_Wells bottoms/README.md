@@ -20,4 +20,10 @@
 
 ### Краткая информация о данных
 - **Инклинометрия** - набор данных, включающих в себя: *координаты, глубину и латеральные смещения*, которые характеризуют пространственное положение ствола буровой скважины.
-<img scr = https://cf2.ppt-online.org/files2/slide/4/4QVfKeqrWs81bLUR0OPzGhAm5p9cIxyaN32SuigZB/slide-14.jpg width = 50% height = 50%>
+
+<img src = https://cf2.ppt-online.org/files2/slide/4/4QVfKeqrWs81bLUR0OPzGhAm5p9cIxyaN32SuigZB/slide-14.jpg width = 50% height = 50%>
+
+- **Забой** - это конечная точка скважины (*конец скважины*);\
+- **Устье** - положение скважины на дневной поверхности (*начало скважины*)\
+
+
