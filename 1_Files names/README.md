@@ -29,12 +29,14 @@
 
 ↑ [К оглавлению](https://github.com/rafferti95/My-projects/blob/main-programs/1_Files%20names/README.md#оглавление) ↑
 
-### Результаты
+### Результат
 В результате написания программы были автоматизированы рутинные рабочие процессы, связанные с ручным заполнением таблиц Excel.
 
 ↑ [К оглавлению](https://github.com/rafferti95/My-projects/blob/main-programs/1_Files%20names/README.md#оглавление) ↑
 
-### Вывод
+### Выводы
 Даже программа, написанная в 7 строк кода, способна сократить выполнение рабочей задачи с нескольких часов до 2 минут.
 
 ↑ [К оглавлению](https://github.com/rafferti95/My-projects/blob/main-programs/1_Files%20names/README.md#оглавление) ↑
+
+→[Ссылка на программу](https://github.com/rafferti95/My-projects/blob/main-programs/1_Files%20names/Files%20names.ipynb)←
